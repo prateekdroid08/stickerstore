@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">StickerStore</string>
+    <string name="weekly_deals">Weekly Deals</string>
+    <string name="_0_99">$0.99</string>
+    <string name="_8_stickers">8 stickers</string>
+    <string name="premium_packs">Premium Packs</string>
 </resources>
